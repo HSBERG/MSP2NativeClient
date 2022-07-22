@@ -5,3 +5,6 @@ To build it yourself
 > Nativefier https://moviestarplanet.com -i Icon-Directory 
 
 Optional argument is --fullscreen.
+
+
+# github hates me, so just build it yourself for now.
